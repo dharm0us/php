@@ -1,6 +1,7 @@
 <?php
 /*
- * Sample script for searching google places by given keywords
+ * 1. Sample script for searching google places by given keywords
+ * 2. How to obtain your api key and other documentation : https://developers.google.com/places/web-service/search
  */
 
 require 'CurlHttpClient.php';
